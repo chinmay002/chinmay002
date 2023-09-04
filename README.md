@@ -19,7 +19,7 @@
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-  - <a href="https://kaggle.com/https://www.kaggle.com/chinmaymaganur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/azure_ds_image.png" alt="https://www.kaggle.com/chinmaymaganur" height="30" width="40" /></a>
+  - <a href="https://kaggle.com/https://www.kaggle.com/chinmaymaganur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/azure_ds_image.svg" alt="https://www.kaggle.com/chinmaymaganur" height="30" width="40" /></a>
  - <strong>Data Science Certification:</strong> [Add Link to Data Science Certification]<br>
 </p>
 <h3 align="left">Connect with me:</h3>
