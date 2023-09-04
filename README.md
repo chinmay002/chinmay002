@@ -9,9 +9,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@chinmaychetan04](https://medium.com/@chinmaychetan04)
 
-- 📫 How to reach me **chinmaymaganur@gmail.com**
+- 📫 How to reach me **camaganu.syr.edu**
 
-- ⚡ Fun fact **United have spent nearly billion dollars and still haven't won major trophy from 2014**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -19,6 +19,7 @@
 <h3 align="left">Certifications:</h3>
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/users/chinmayashokmaganur-6442/credentials/ef9f9c79f3ce753a" target="blank"><img align="center" src="https://github.com/chinmay002/github-profile-readme-generator/tree/master/src/images/icons/Social/azure_ds_image.svg"  height="30" width="40" /></a>
+![azure_ds_image](https://github.com/chinmay002/chinmay002/assets/60249099/023f5aac-176a-49ab-9eea-07b5b659c530)
 
 
 </p>
