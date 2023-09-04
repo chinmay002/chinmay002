@@ -18,7 +18,7 @@
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Certifications:</h3>
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/users/chinmayashokmaganur-6442/credentials/ef9f9c79f3ce753a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/azure_ds_image.svg"  height="30" width="40" /></a>
+  <a href="https://learn.microsoft.com/en-us/users/chinmayashokmaganur-6442/credentials/ef9f9c79f3ce753a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/azure_ds_image.png"  height="30" width="40" /></a>
 
 
 </p>
