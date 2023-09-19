@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Chinmay Maganuur</h1>
+<h1 align="center">Hi 👋, I'm Chinmay Maganur</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmay002&label=Profile%20views&color=0e75b6&style=flat" alt="chinmay002" /> </p>
 
