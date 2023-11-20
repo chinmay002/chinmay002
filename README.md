@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinmay Maganur</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Data Scientist / Analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmay002&label=Profile%20views&color=0e75b6&style=flat" alt="chinmay002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmay002" alt="chinmay002" /></a> </p>
 
 - 🔭 I’m currently working on **LLM Projects**
 
